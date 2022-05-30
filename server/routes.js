@@ -25,4 +25,3 @@ app.get("/users", async (request, response) => {
   });
 
   module.exports = app;
-  console.log("Anurag");
